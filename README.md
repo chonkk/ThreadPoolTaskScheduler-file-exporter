@@ -11,3 +11,4 @@ secondPath=D:\data\FileCollector\EventLog_vod
 
 목적: 광고 결정로그와 광고 시청로그를 생성하여 각각 파일로 제공한다.(tracking id가 양쪽에 남는다.)
 ```
+하루에 12,000,000의 로그를 생산하여, 광고 수집서버의 부하를 테스트 한다.
